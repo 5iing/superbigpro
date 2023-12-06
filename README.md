@@ -1,11 +1,11 @@
 <!-- <h1 align="center">Hello 👋 I'm leeyeonwoo</h1> -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=175&color=02a9f7&text=leeyeonwoo&fontAlign=20&fontAlignY=40&fontColor=ffffff&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=175&color=6666CC&text=leeyeonwoo&fontAlign=20&fontAlignY=40&fontColor=ffffff&fontSize=50)
 </div>
 
 
 ###
 
-<p align="center">based on korea, backend developer</p>
+<h1 align="center">based on korea, backend developer</h1>
 
 ###
 
