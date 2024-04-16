@@ -9,14 +9,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since <br>📚 I'm currently learning <br>🎯 Goals: become a john mayer<br>🎲 Fun fact: 1 hour is 60 min</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
