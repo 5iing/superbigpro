@@ -1,7 +1,7 @@
 
 ```json
 {
-  "name": "Iyeon-u Lee",
+  "name": "Yeonwoo Lee",
   "aka": "superbigpro",
   "role": "Backend Developer",
   "techStack": [
