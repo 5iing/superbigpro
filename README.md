@@ -10,9 +10,8 @@
   "education": "한세사이버보안고등학교",
   "motto": "코드 한 줄이 누군가의 삶을 바꿀 수 있다면",
   "contact": {
-    "email": "leeyeoneoo@gmail.com",
-    "portfolio": "https://leeyeoneoo.notion.site",
-    "blog": "https://velog.io/@leeyeoneoo"
+    "email": "rexrex1105@gmail.com",
+    "portfolio": "https://leeyeoneoo.xyz",
   }
 }
 ```
