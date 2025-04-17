@@ -11,7 +11,7 @@
   "motto": "코드 한 줄이 누군가의 삶을 바꿀 수 있다면",
   "contact": {
     "email": "rexrex1105@gmail.com",
-    "portfolio": "https://leeyeoneoo.xyz",
+    "portfolio": "https://leeyeonwoo.xyz",
   }
 }
 ```
