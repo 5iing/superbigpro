@@ -1,3 +1,4 @@
+
 ```json
 {
   "name": "Yeonwoo Lee",
@@ -20,6 +21,10 @@
     "정보처리기능사",
     "AWS Certified Cloud Practitioner"
   ],
+  "achievements": [
+    "2024 한세톤 생활부문 1위", 
+    "KITRI 화이트 햇 스쿨 2기(Pre-BoB) 수료"
+  ],
   "interests": [
     "Distributed Systems",
     "System Scalability and Observability",
@@ -30,3 +35,4 @@
 }
 
 ```
+
