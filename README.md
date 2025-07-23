@@ -19,7 +19,8 @@
   },
   "certifications": [
     "정보처리기능사",
-    "AWS Certified Cloud Practitioner"
+    "AWS Certified Cloud Practitioner",
+    "정보기기운용기능사"
   ],
   "achievements": [
     "2024 한세톤 생활부문 1위", 
