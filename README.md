@@ -2,7 +2,7 @@
 ```json
 {
   "name": "Yeonwoo Lee",
-  "username": "superbigpro",
+  "username": "5iing",
   "role": "Backend Developer",
   "motto": "코드 한 줄이 누군가의 삶을 바꿀 수 있다면",
   "education": "Hansei Cyber Security High School",
